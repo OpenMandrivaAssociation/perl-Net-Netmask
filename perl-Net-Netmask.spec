@@ -12,6 +12,7 @@ Group:		Development/Perl
 Source0:	http://www.cpan.org/authors/id/M/MU/MUIR/modules/%{module}-%{version}.tar.bz2
 URL:		http://search.cpan.org/dist/%{module}
 BuildRequires:	perl-devel
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: 	noarch
 Requires:	perl >= 0:5.00503
 
