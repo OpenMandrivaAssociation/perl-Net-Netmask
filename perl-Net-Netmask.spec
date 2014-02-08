@@ -1,7 +1,7 @@
 %define	module	Net-Netmask
 %define	name	perl-%{module}
 %define	version	1.9015
-%define	release %mkrel 8
+%define release 9
 
 Summary:	%{module} module for Perl
 Name:		%{name}
