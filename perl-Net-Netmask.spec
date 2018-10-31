@@ -3,7 +3,7 @@
 Summary:	%{module} module for Perl
 Name:		perl-%{module}
 Version:	1.9015
-Release:	17
+Release:	18
 License:	Public Domain
 Group:		Development/Perl
 Url:		http://search.cpan.org/dist/%{module}
