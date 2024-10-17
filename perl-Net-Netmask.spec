@@ -6,7 +6,7 @@ Version:	1.9015
 Release:	19
 License:	Public Domain
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{module}
+Url:		https://search.cpan.org/dist/%{module}
 Source0:	http://www.cpan.org/authors/id/M/MU/MUIR/modules/%{module}-%{version}.tar.bz2
 BuildArch: 	noarch
 BuildRequires:	perl-devel
