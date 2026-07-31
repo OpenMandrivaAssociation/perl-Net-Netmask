@@ -2,8 +2,8 @@
 
 Summary:	%{module} module for Perl
 Name:		perl-%{module}
-Version:	1.9015
-Release:	19
+Version:	2.0003
+Release:	1
 License:	Public Domain
 Group:		Development/Perl
 Url:		https://search.cpan.org/dist/%{module}
@@ -23,7 +23,7 @@ There are methods that provide the nearly all bits of information about a
 network block that you might want.
 
 %prep
-%setup -qn %{module}-%{version}
+%setup -qn %{module}-%{version} -n Net-Netmask-2.0003
 
 %build
 %__perl Makefile.PL INSTALLDIRS=vendor
