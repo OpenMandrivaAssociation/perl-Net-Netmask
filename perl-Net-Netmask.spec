@@ -7,7 +7,7 @@ Release:	1
 License:	Public Domain
 Group:		Development/Perl
 Url:		https://search.cpan.org/dist/%{module}
-Source0:	http://www.cpan.org/authors/id/M/MU/MUIR/modules/%{module}-%{version}.tar.bz2
+Source0:	https://cpan.metacpan.org/authors/id/J/JM/JMASLAK/Net-Netmask-%{version}.tar.gz
 BuildArch: 	noarch
 BuildRequires:	make
 BuildRequires:	perl-devel
